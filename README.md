@@ -1,2 +1,4 @@
 # N3tGhosts-Find
-Script
+# Ferramenta para achar painel de login admin
+
+instalação 
