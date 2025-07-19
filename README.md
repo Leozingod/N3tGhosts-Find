@@ -3,7 +3,7 @@
 
 instalação 
 
-git clone https://github.com/Leozingod/N3tGhosts-Find/blob/main/README.md
+git clone https://github.com/Leozingod/N3tGhosts-Find.git
 
 cd N3tGhosts-Find
 
